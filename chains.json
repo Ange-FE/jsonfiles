@@ -510,7 +510,7 @@
       },
       "explorer": {}
     },
-    "qamar-1":{
+    "qamar":{
       "chainID": "qamar",
       "lcd": "https://rpc-dev.qamar.fi/",
       "gasAdjustment": 1.75,
